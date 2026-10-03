@@ -1,5 +1,3 @@
-import { type } from "@testing-library/user-event/dist/type";
-
 function StartScreen({ numQuistions, dispatch }) {
   return (
     <div className="start">
